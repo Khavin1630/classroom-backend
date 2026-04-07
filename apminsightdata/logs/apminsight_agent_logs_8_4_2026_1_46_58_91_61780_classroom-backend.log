@@ -142,3 +142,651 @@
 [8/4/2026 1:46:58] [INFO] Instrumenting function ::Interface.prototype.question 
 [8/4/2026 1:46:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
 [8/4/2026 1:46:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:47:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:47:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:47:58] [INFO] data processing starts 
+[8/4/2026 1:47:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:47:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:47:58] [INFO] data processing ends 
+[8/4/2026 1:48:0] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:48:0] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:48:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:48:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:48:58] [INFO] data processing starts 
+[8/4/2026 1:48:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:48:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:48:58] [INFO] data processing ends 
+[8/4/2026 1:49:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:49:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:49:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:49:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:49:58] [INFO] data processing starts 
+[8/4/2026 1:49:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:49:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:49:58] [INFO] data processing ends 
+[8/4/2026 1:50:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:50:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:50:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:50:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:50:58] [INFO] data processing starts 
+[8/4/2026 1:50:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:50:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:50:58] [INFO] data processing ends 
+[8/4/2026 1:51:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:51:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:51:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:51:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:51:58] [INFO] data processing starts 
+[8/4/2026 1:51:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:51:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:51:58] [INFO] data processing ends 
+[8/4/2026 1:52:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:52:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:52:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:52:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:52:58] [INFO] data processing starts 
+[8/4/2026 1:52:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:52:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:52:58] [INFO] data processing ends 
+[8/4/2026 1:53:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:53:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:53:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:53:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:53:58] [INFO] data processing starts 
+[8/4/2026 1:53:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:53:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:53:58] [INFO] data processing ends 
+[8/4/2026 1:54:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:54:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:54:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:54:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:54:58] [INFO] data processing starts 
+[8/4/2026 1:54:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:54:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:54:58] [INFO] data processing ends 
+[8/4/2026 1:55:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:55:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:55:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:55:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:55:58] [INFO] data processing starts 
+[8/4/2026 1:55:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:55:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:55:58] [INFO] data processing ends 
+[8/4/2026 1:56:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:56:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:56:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:56:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:56:58] [INFO] data processing starts 
+[8/4/2026 1:56:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:56:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:56:58] [INFO] data processing ends 
+[8/4/2026 1:57:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:57:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:57:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:57:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:57:58] [INFO] data processing starts 
+[8/4/2026 1:57:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:57:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:57:58] [INFO] data processing ends 
+[8/4/2026 1:58:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:58:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:58:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:58:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:58:58] [INFO] data processing starts 
+[8/4/2026 1:58:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:58:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:58:58] [INFO] data processing ends 
+[8/4/2026 1:59:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:59:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:59:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:59:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:59:58] [INFO] data processing starts 
+[8/4/2026 1:59:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:59:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:59:58] [INFO] data processing ends 
+[8/4/2026 2:0:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:0:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:0:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:0:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:0:58] [INFO] data processing starts 
+[8/4/2026 2:0:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:0:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:0:58] [INFO] data processing ends 
+[8/4/2026 2:1:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:1:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:1:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:1:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:1:58] [INFO] data processing starts 
+[8/4/2026 2:1:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:1:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:1:58] [INFO] data processing ends 
+[8/4/2026 2:2:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:2:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:2:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:2:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:2:58] [INFO] data processing starts 
+[8/4/2026 2:2:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:2:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:2:58] [INFO] data processing ends 
+[8/4/2026 2:3:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:3:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:3:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:3:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:3:58] [INFO] data processing starts 
+[8/4/2026 2:3:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:3:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:3:58] [INFO] data processing ends 
+[8/4/2026 2:4:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:4:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:4:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:4:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:4:58] [INFO] data processing starts 
+[8/4/2026 2:4:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:4:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:4:58] [INFO] data processing ends 
+[8/4/2026 2:5:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:5:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:5:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:5:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:5:58] [INFO] data processing starts 
+[8/4/2026 2:5:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:5:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:5:58] [INFO] data processing ends 
+[8/4/2026 2:6:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:6:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:6:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:6:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:6:58] [INFO] data processing starts 
+[8/4/2026 2:6:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:6:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:6:58] [INFO] data processing ends 
+[8/4/2026 2:7:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:7:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:7:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:7:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:7:58] [INFO] data processing starts 
+[8/4/2026 2:7:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:7:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:7:58] [INFO] data processing ends 
+[8/4/2026 2:8:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:8:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:8:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:8:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:8:58] [INFO] data processing starts 
+[8/4/2026 2:8:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:8:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:8:58] [INFO] data processing ends 
+[8/4/2026 2:9:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:9:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:9:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:9:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:9:58] [INFO] data processing starts 
+[8/4/2026 2:9:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:9:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:9:58] [INFO] data processing ends 
+[8/4/2026 2:10:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:10:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:10:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:10:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:10:58] [INFO] data processing starts 
+[8/4/2026 2:10:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:10:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:10:58] [INFO] data processing ends 
+[8/4/2026 2:11:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:11:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:11:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:11:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:11:58] [INFO] data processing starts 
+[8/4/2026 2:11:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:11:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:11:58] [INFO] data processing ends 
+[8/4/2026 2:12:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:12:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:12:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:12:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:12:58] [INFO] data processing starts 
+[8/4/2026 2:12:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:12:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:12:58] [INFO] data processing ends 
+[8/4/2026 2:13:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:13:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:13:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:13:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:13:58] [INFO] data processing starts 
+[8/4/2026 2:13:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:13:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:13:58] [INFO] data processing ends 
+[8/4/2026 2:14:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:14:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:14:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:14:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:14:58] [INFO] data processing starts 
+[8/4/2026 2:14:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:14:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:14:58] [INFO] data processing ends 
+[8/4/2026 2:15:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:15:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:15:58] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:15:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:15:58] [INFO] data processing starts 
+[8/4/2026 2:15:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:15:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:15:58] [INFO] data processing ends 
+[8/4/2026 2:16:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:16:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:16:58] [INFO] Dependencies : {"@arcjet/inspect":"^1.3.1","@arcjet/node":"^1.3.1","@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:16:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:16:58] [INFO] data processing starts 
+[8/4/2026 2:16:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:16:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:16:58] [INFO] data processing ends 
+[8/4/2026 2:17:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:17:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:17:58] [INFO] Dependencies : {"@arcjet/inspect":"^1.3.1","@arcjet/node":"^1.3.1","@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:17:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:17:58] [INFO] data processing starts 
+[8/4/2026 2:17:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:17:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:17:58] [INFO] data processing ends 
+[8/4/2026 2:18:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:18:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:18:58] [INFO] Dependencies : {"@arcjet/inspect":"^1.3.1","@arcjet/node":"^1.3.1","@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:18:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:18:58] [INFO] data processing starts 
+[8/4/2026 2:18:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:18:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:18:58] [INFO] data processing ends 
+[8/4/2026 2:19:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:19:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:19:58] [INFO] Dependencies : {"@arcjet/inspect":"^1.3.1","@arcjet/node":"^1.3.1","@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:19:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:19:58] [INFO] data processing starts 
+[8/4/2026 2:19:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:19:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:19:58] [INFO] data processing ends 
+[8/4/2026 2:20:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:20:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:20:58] [INFO] Dependencies : {"@arcjet/inspect":"^1.3.1","@arcjet/node":"^1.3.1","@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:20:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:20:58] [INFO] data processing starts 
+[8/4/2026 2:20:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:20:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:20:58] [INFO] data processing ends 
+[8/4/2026 2:21:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:21:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:21:58] [INFO] Dependencies : {"@arcjet/inspect":"^1.3.1","@arcjet/node":"^1.3.1","@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:21:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:21:58] [INFO] data processing starts 
+[8/4/2026 2:21:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:21:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:21:58] [INFO] data processing ends 
+[8/4/2026 2:22:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:22:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 2:22:58] [INFO] Dependencies : {"@arcjet/inspect":"^1.3.1","@arcjet/node":"^1.3.1","@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 2:22:58] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 2:22:58] [INFO] data processing starts 
+[8/4/2026 2:22:58] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 2:22:58] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 2:22:58] [INFO] data processing ends 
+[8/4/2026 2:23:1] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 2:23:1] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
