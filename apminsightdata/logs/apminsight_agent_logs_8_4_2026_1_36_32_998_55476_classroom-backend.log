@@ -1,0 +1,306 @@
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "events"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::prototype.addListener 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "http"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::createServer 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Server 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::request 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::get 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "https"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::createServer 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Server 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::request 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::get 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "http2"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::createSecureServer 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Http2ServerRequest.prototype.setTimeout 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Http2ServerResponse.prototype.end 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Http2ServerResponse.prototype.setTimeout 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Http2ServerResponse.prototype.createPushResponse 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "net"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Server.prototype.getConnections 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Server.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Socket.prototype.setTimeout 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Socket.prototype.write 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Socket.prototype.connect 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::createConnection 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Server.prototype.listen 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "fs"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::access 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::ftruncate 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::mkdir 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::mkdtemp 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::readdir 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::readFile 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::readlink 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::realpath 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::truncate 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::appendFile 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::symlink 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::copyFile 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::open 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::writeFile 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::chmod 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::fchmod 
+[8/4/2026 1:36:33] [INFO] lchmod is undefined in module::fs 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::link 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::rename 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::chown 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::fchown 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::lchown 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::futimes 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::utimes 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::exists 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::fdatasync 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::fstat 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::fsync 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::lstat 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::stat 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::rmdir 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::unlink 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::read 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::write 
+[8/4/2026 1:36:33] [INFO] realpath.native is undefined in module::fs 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "dns"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::lookupService 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::lookup 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolve 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolve4 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolve6 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveCname 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveMx 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveNaptr 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveNs 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolvePtr 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveSoa 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveSrv 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveTxt 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::resolveAny 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::reverse 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "crypto"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::pbkdf2 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::randomBytes 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::randomFill 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::generateKeyPair 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::scrypt 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "domain"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Domain.prototype.bind 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Domain.prototype.intercept 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "zlib"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Deflate.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Inflate.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Gzip.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Gunzip.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::DeflateRaw.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::InflateRaw.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Unzip.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Deflate.prototype.flush 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Inflate.prototype.flush 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Gzip.prototype.flush 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Gunzip.prototype.flush 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::DeflateRaw.prototype.flush 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::InflateRaw.prototype.flush 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Unzip.prototype.flush 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Deflate.prototype.params 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::deflate 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::deflateRaw 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::gunzip 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::gzip 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::inflate 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::inflateRaw 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::unzip 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "child_process"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::exec 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::execFile 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "cluster"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::disconnect 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Worker.prototype.send 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "process"
+[8/4/2026 1:36:33] [INFO] send is undefined in module::process 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::nextTick 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "dgram"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Socket.prototype.bind 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Socket.prototype.close 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Socket.prototype.send 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::createSocket 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "tls"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::connect 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::TLSSocket.prototype.renegotiate 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "stream"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Writable.prototype.write 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Writable.prototype.end 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::finished 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::pipeline 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "global"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::setImmediate 
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::setTimeout 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "inspector"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Session.prototype.post 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "worker_threads"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Worker.prototype.terminate 
+[8/4/2026 1:36:33] [INFO] Instrumenting module:: "readline"
+[8/4/2026 1:36:33] [INFO] Instrumenting function ::Interface.prototype.question 
+[8/4/2026 1:36:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:36:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:37:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:37:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:37:33] [INFO] data processing starts 
+[8/4/2026 1:37:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:37:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:37:33] [INFO] data processing ends 
+[8/4/2026 1:37:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:37:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:38:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:38:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:38:33] [INFO] data processing starts 
+[8/4/2026 1:38:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:38:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:38:33] [INFO] data processing ends 
+[8/4/2026 1:38:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:38:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:39:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:39:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:39:33] [INFO] data processing starts 
+[8/4/2026 1:39:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:39:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:39:33] [INFO] data processing ends 
+[8/4/2026 1:39:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:39:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:40:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:40:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:40:33] [INFO] data processing starts 
+[8/4/2026 1:40:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:40:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:40:33] [INFO] data processing ends 
+[8/4/2026 1:40:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:40:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:41:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:41:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:41:33] [INFO] data processing starts 
+[8/4/2026 1:41:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:41:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:41:33] [INFO] data processing ends 
+[8/4/2026 1:41:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:41:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:42:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:42:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:42:33] [INFO] data processing starts 
+[8/4/2026 1:42:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:42:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:42:33] [INFO] data processing ends 
+[8/4/2026 1:42:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:42:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:43:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:43:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:43:33] [INFO] data processing starts 
+[8/4/2026 1:43:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:43:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:43:33] [INFO] data processing ends 
+[8/4/2026 1:43:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:43:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:44:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:44:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:44:33] [INFO] data processing starts 
+[8/4/2026 1:44:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:44:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:44:33] [INFO] data processing ends 
+[8/4/2026 1:44:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:44:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+[8/4/2026 1:45:33] [INFO] Dependencies : {"@neondatabase/serverless":"^1.0.2","apminsight":"^5.3.1","better-auth":"^1.6.0","cors":"^2.8.6","dotenv":"^17.4.0","drizzle-orm":"^0.45.2","express":"^5.2.1"} 
+[8/4/2026 1:45:33] [CRITICAL] Agent not configured properly. Please check the apminsightnode.json file for the configured licenseKey. Note: Copy-paste the entire alphanumeric device key as the license key. 
+[8/4/2026 1:45:33] [INFO] data processing starts 
+[8/4/2026 1:45:33] [CRITICAL]  Unknown response code ::undefined 
+[8/4/2026 1:45:33] [INFO] intiating /arh/data request to undefined:443 
+[8/4/2026 1:45:33] [INFO] data processing ends 
+[8/4/2026 1:45:35] [INFO] while initiating req to /arh/data, endpoint https://undefined:443/, failed: getaddrinfo ENOTFOUND undefined moving onto next endpoint 
+[8/4/2026 1:45:35] [ERROR] Error occured for in /arh/data request Error: All endpoints failed
+    at tryEndpoint (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:13:16)
+    at C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:42:17
+    at ClientRequest.<anonymous> (C:\Users\khavi\WebstormProjects\UniversityAdminCenter\classroom-backend\node_modules\apminsight\lib\communication\reqhandler.js:90:9)
+    at ClientRequest.emit (node:events:508:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at emitErrorEvent (node:_http_client:108:11)
+    at TLSSocket.socketErrorListener (node:_http_client:575:5)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:170:8)

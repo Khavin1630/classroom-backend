@@ -8,6 +8,13 @@
       "when": 1775245757016,
       "tag": "0000_late_chat",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1775584054786,
+      "tag": "0001_curly_rage",
+      "breakpoints": true
     }
   ]
 }
